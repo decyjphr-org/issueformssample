@@ -1,4 +1,4 @@
-name: Bug Report
+name: Bug Report. 
 description: Create a report to help us improve
 default_title: "[Bug]: "
 labels: bug
