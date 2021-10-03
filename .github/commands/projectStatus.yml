@@ -1,8 +1,8 @@
 trigger: project_status
 title: Project status
 description: Update the team on your project's status.
-surfaces:
-- issue
+#surfaces:
+#- issue
 steps:
 - type: menu
   id: project
